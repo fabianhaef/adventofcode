@@ -204,6 +204,7 @@ goal = 2020
 
 def part_one():
     for i in my_nums:
+        # res = map(lambda x,y: y + x = 2020)
         res = []
         rest = goal - i
         res.append(i)
