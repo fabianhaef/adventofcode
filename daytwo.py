@@ -1,5 +1,4 @@
 import re
-from collections import Counter
 correct_password_counter = 0
 f = open("daytwo.txt", "r")
 for line in f:
